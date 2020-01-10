@@ -5,3 +5,9 @@ C:\Users\btuladhar22\source\repos\HW2_Ex2\HW2_Ex2\obj\Debug\HW2_Ex2.csprojAssemb
 C:\Users\btuladhar22\source\repos\HW2_Ex2\HW2_Ex2\obj\Debug\HW2_Ex2.csproj.CoreCompileInputs.cache
 C:\Users\btuladhar22\source\repos\HW2_Ex2\HW2_Ex2\obj\Debug\HW2_Ex2.exe
 C:\Users\btuladhar22\source\repos\HW2_Ex2\HW2_Ex2\obj\Debug\HW2_Ex2.pdb
+C:\Users\Bishesh\HW2\HW2_Ex3\HW2_Ex2\bin\Debug\HW2_Ex2.exe.config
+C:\Users\Bishesh\HW2\HW2_Ex3\HW2_Ex2\bin\Debug\HW2_Ex2.exe
+C:\Users\Bishesh\HW2\HW2_Ex3\HW2_Ex2\bin\Debug\HW2_Ex2.pdb
+C:\Users\Bishesh\HW2\HW2_Ex3\HW2_Ex2\obj\Debug\HW2_Ex2.csprojAssemblyReference.cache
+C:\Users\Bishesh\HW2\HW2_Ex3\HW2_Ex2\obj\Debug\HW2_Ex2.exe
+C:\Users\Bishesh\HW2\HW2_Ex3\HW2_Ex2\obj\Debug\HW2_Ex2.pdb

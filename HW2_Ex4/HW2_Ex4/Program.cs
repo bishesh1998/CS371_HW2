@@ -1,4 +1,11 @@
-﻿using System;
+﻿//////////////////////////////////////////////////////////////////////////////////
+// HW 2 : EX 04
+// CS371 - Whitworth University
+// Originally outlined by: Bishesh Tuladhar
+// Worked With : Sabin Sapkota & Novel Poudel
+/////////////////////////////////////////////////////////////////////////////
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
