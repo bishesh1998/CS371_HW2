@@ -6,17 +6,20 @@ using System.Threading.Tasks;
 
 namespace HW2_Ex2
 {
+    //Interface class for toggling the switch of radio
     public interface ISwitch
     {
         void toggle();
     }
 
+    //Interface class for tuning the station and volume of radio
     public interface ITunable
     {
         void tune(float s);
         void crank(int v);
     }
 
+    //Radio class inherited from ISwtich and ITunable
     public class Radio : ISwitch, ITunable
     {
         private bool on;
@@ -30,6 +33,7 @@ namespace HW2_Ex2
             volume = 5;
         }
 
+        //Method to toggle the switch
         public void toggle()
         {
             if (@on)
@@ -42,6 +46,7 @@ namespace HW2_Ex2
             }
         }
 
+        //Method to tune the station
         public void tune(float s)
         {
             if (s > 88.5 && s < 107.9)
@@ -50,6 +55,7 @@ namespace HW2_Ex2
             }
         }
 
+        //Method to tune the volume
         public void crank(int v)
         {
             if (v >= 0 && v <= 12)
@@ -57,13 +63,15 @@ namespace HW2_Ex2
                 Volume = v;
             }
         }
-
+        
+        //Property of on
         public bool On
         {
             get { return @on; }
             set { @on = value; }
         }
 
+        //Property of Station
         public float Station
         {
             get { return station; }
@@ -76,6 +84,7 @@ namespace HW2_Ex2
             }
         }
 
+        //Property of Volume
         public int Volume
         {
             get { return volume; }
@@ -88,6 +97,7 @@ namespace HW2_Ex2
             }
         }
 
+        //Method to print the status to the terminal
         public void RadioStatus()
         {
             if (On)

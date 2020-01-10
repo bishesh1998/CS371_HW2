@@ -1,0 +1,6 @@
+C:\Users\Bishesh\HW2\HW2_Ex4\HW2_Ex4\bin\Debug\HW2_Ex4.exe.config
+C:\Users\Bishesh\HW2\HW2_Ex4\HW2_Ex4\bin\Debug\HW2_Ex4.exe
+C:\Users\Bishesh\HW2\HW2_Ex4\HW2_Ex4\bin\Debug\HW2_Ex4.pdb
+C:\Users\Bishesh\HW2\HW2_Ex4\HW2_Ex4\obj\Debug\HW2_Ex4.csprojAssemblyReference.cache
+C:\Users\Bishesh\HW2\HW2_Ex4\HW2_Ex4\obj\Debug\HW2_Ex4.exe
+C:\Users\Bishesh\HW2\HW2_Ex4\HW2_Ex4\obj\Debug\HW2_Ex4.pdb
